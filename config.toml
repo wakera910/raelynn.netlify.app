@@ -14,7 +14,7 @@ sectionPagesMenu = "main"
 [params]
   description = "Raelynn Diary About All Information Around the World"
   topdescription = "Raelynn Diary About All Information Around the World"
-  toptitle = "Manga Cartoon"
+  toptitle = "Raelynn Website"
   contentBackgroundColor = "#fff"
   contentLinkColor = "#007bff"
   contentLinkHoverColor = "#0056b3"
@@ -65,9 +65,9 @@ sectionPagesMenu = "main"
   weight = 5
 
 [author]
-    name = "Cartooner"
+    name = "Raelynn"
     homepage = "https://raelynn.netlify.app/"
-    bio = "True Cartoon Lover"
+    bio = "Raelynn Diary"
     image = "https://i.imgur.com/qNQv8nK.jpg"
 
 [markup]
