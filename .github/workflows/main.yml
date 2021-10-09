@@ -24,7 +24,7 @@ jobs:
         uses: jsmrcaga/action-netlify-deploy@v1.2.0
         with:
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_TOKEN }}
-          NETLIFY_SITE_ID: ?????
+          NETLIFY_SITE_ID: dde8f484-07ca-4ae7-b677-cd9f5aaff255
           NETLIFY_DEPLOY_TO_PROD: true
           build_directory: 'public'
 
